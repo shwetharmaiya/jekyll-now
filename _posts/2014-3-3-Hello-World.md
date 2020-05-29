@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: My first tech blog post!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+** “I think everybody should learn how to program because it teaches you how to think.” - Steve Jobs **
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+_Learning is a wonderful feeling of accomplishment._ If you learn, think and implement, you win in life. As I am setting a journey into finding out if coding is my niche, coding has thrown wonderful insights about myself. I have found out that if I push myself, I am very disciplined. I have done n number of courses in my favorite areas. I have also learnt through the #FreeApril Pluralsight courses, where it changed my insight that I am not bright. Practice makes anyone bright. 2020 maybe a sad year for everyone, but it has been an insightful year till now for me. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Here's to discovering more about myself and more coding. Deciding the career path too. 
